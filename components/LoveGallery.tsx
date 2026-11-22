@@ -37,16 +37,16 @@ const images = [
 ];
 
 const captions = [
-  "Cutie 🥹",
-  "Baddie 😎",
-  "Pretty ✨",
-  "My Love 🤍",
-  "Sunshine ☀️",
-  "Angel 🪽",
-  "Beautiful 🌸",
-  "Dream Girl 💫",
+  "1st phtoooo ",
+  "Helooooo cuteeee bulmaaaaaaa",
+  "Bulmaaa✨❤️",
+  "Aur kitneee photoosssss papaaaaaa",
+  "Baddie bulmaaaaa",
+  "Mai photos khud lugiiii",
+  "Red velvet ✨❤️",
+  "Classical bulmaaaaa",
   "Queen 👑",
-  "Always You 🫶",
+  "AESTHETIC BULMAAAAA ❤️❤️✨✨"
 ];
 
 const positions = [
