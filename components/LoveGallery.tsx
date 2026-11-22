@@ -45,8 +45,8 @@ const captions = [
   "Mai photos khud lugiiii",
   "Red velvet ✨❤️",
   "Classical bulmaaaaa",
-  "Queen 👑",
-  "AESTHETIC BULMAAAAA ❤️❤️✨✨"
+  "Aesthetic bulmaaaaa ",
+  "Us👉👈"
 ];
 
 const positions = [

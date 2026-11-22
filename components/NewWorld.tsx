@@ -87,8 +87,8 @@ function CardProvider({ children }: { children: React.ReactNode }) {
   { id: "7", imageUrl: "/ref/girl6.jpg", alt: "Mai photos khud lugiiii", title: "Mai photos khud lugiiii" },
   { id: "8", imageUrl: "/ref/girl7.jpg", alt: "Red velvet ✨❤️", title: "Red velvet ✨❤️" },
   { id: "9", imageUrl: "/ref/girl8.jpg", alt: "Classical bulmaaaaa", title: "Classical bulmaaaaa" },
-  { id: "10", imageUrl: "/ref/girl9.jpg", alt: "Queen 👑", title: "Queen 👑" },
-  { id: "11", imageUrl: "/ref/girl10.jpg", alt: "AESTHETIC BULMAAAAA ❤️❤️✨✨", title: "AESTHETIC BULMAAAAA ❤️❤️✨✨" },
+  { id: "10", imageUrl: "/ref/girl9.jpg", alt: "Aesthetic bulmaaaaa ", title: "Aesthetic bulmaaaaa " },
+  { id: "11", imageUrl: "/ref/girl10.jpg", alt: "Us👉👈", title: "Us👉👈" },
   { id: "12", imageUrl: "/ref/girl11.jpg", alt: "Heartbreaker", title: "Heartbreaker" },
 ];
 
