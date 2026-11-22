@@ -148,7 +148,7 @@ export const HeroSection = () => {
         <div className="mt-2 xs:mt-4 sm:mt-6">
           <div className="h-px w-20 bg-[#9C7A3F]" />
           <p className="hero-body mt-3 xs:mt-4 sm:mt-6 max-w-sm sm:max-w-sm text-base xs:text-lg sm:text-base leading-[1.65] text-[#2c2c26]">
-            Sorry Bulmaaa us mazak ke liye aur hr baar ke liye jb maine irritate yn tng kiya ho ,wishing you a day filled with love, laughter, and all the happiness your heart can hold. May this year bring you endless joy and unforgettable memories. Happy Birthday!
+            Sorry Bulmaaa us mazak ke liye aur hr baar ke liye jb maine irritate yn tng kiya ho ,Sorry Bulmaaa us mazak ke liye aur hr baar ke liye jb maine irritate yn tng kiya ho ,wishing you a day filled with love, laughter, and all the happiness your heart can hold. May this year bring you endless joy and unforgettable memories. Happy Birthday!
           </p>
         </div>
       </div>

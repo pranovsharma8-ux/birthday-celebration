@@ -90,7 +90,7 @@ interface Remaining {
   seconds: number;
 }
 
-const TARGET = new Date('2026-11-23T00:00:00+05:30').getTime();
+const TARGET = new Date('2026-23-11T00:00:00+05:30').getTime();
 
 async function getRemaining() {
   const res = await fetch('/api/time', { cache: 'no-store' });
@@ -113,13 +113,13 @@ async function getRemaining() {
   };
 }
 
-/** Default target: Aug 11 2026, 00:00 IST */
+/** Default target: NOVEMBER 23 2026, 00:00 IST */
 const DEFAULT_TARGET = new Date(Date.UTC(2026, 11, 11, 0, 0, 0) - (5 * 60 + 30) * 60 * 1000);
 
 type UnitKey = 'days' | 'hours' | 'minutes' | 'seconds';
 
 export default function ShowtimeCountdown({
-  tickerText = 'SAVE THE DATE · NOV 11 ·',
+  tickerText = 'SAVE THE DATE · NOVEMBER 23 ·',
   marqueeTitle = 'NOW SHOWING',
   marqueeSub = "a Pipi production, live NOVEMBER 23",
   doorsText = 'doors open at midnight, IST',
